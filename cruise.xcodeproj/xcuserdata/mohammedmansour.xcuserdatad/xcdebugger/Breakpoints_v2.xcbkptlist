@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25955E5B-089E-4A3A-BD16-FAA497513709"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "946877A9-BBE7-4815-ADA3-277EC0D65F05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/details/ReservationDetailsIdCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "setCell(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5D65563-DA10-4409-9E31-C3F3A508C76F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/details/ReservationDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCDDDBE6-1244-4926-A79C-B6C24138743C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/details/ReservationDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DCDDDBE6-1244-4926-A79C-B6C24138743C - 9aac7e0337b26760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.ReservationDetailsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/details/ReservationDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "DCDDDBE6-1244-4926-A79C-B6C24138743C - 9aac7e0337b26760"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.ReservationDetailsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/details/ReservationDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "839638EA-F1A3-48AC-8DCC-87F039FF5060"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/details/ReservationDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC56AEF2-70A6-43A2-A9D7-7885660E5A3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "application(_:configurationForConnecting:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B1FCD15-E94E-441C-A533-C6C05030C5A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/payment/PaymentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "paymentBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B1FCD15-E94E-441C-A533-C6C05030C5A3 - 13ec2ba472f253c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.PaymentViewController.paymentBtn(Any) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/payment/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "9B1FCD15-E94E-441C-A533-C6C05030C5A3 - 13ec2ba472f253c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.PaymentViewController.paymentBtn(Any) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/payment/PaymentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DD6510C-54CC-4DE7-9E71-66C178D97BFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "553F364B-14ED-41B0-BAFA-C14F43D7AAD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DAA3C42-E81E-4186-BEA9-670AE03283CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/cart/CartViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DAA3C42-E81E-4186-BEA9-670AE03283CC - d2b2ce4bff8ed06c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.CartViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "0DAA3C42-E81E-4186-BEA9-670AE03283CC - a4d70402c1ad6a4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.CartViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/cart/CartViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "713">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C1FE5C0-A2EF-4938-93F1-E3863F568CC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/DatabaseManager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "saveCruiseModel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "967726CC-A04D-4D24-A35C-1B3BFC936EED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/DatabaseManager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "saveCruiseModel(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "967726CC-A04D-4D24-A35C-1B3BFC936EED - 61ad30cae3ba6a37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "1939">
+               </Location>
+               <Location
+                  uuid = "967726CC-A04D-4D24-A35C-1B3BFC936EED - 61ad30cae3ba6a37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "2137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "484E7ABC-9B85-4C03-A888-60D0DB6705C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/DatabaseManager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "saveCruiseModel(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "484E7ABC-9B85-4C03-A888-60D0DB6705C4 - 61ad30cae3ba6bd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1678">
+               </Location>
+               <Location
+                  uuid = "484E7ABC-9B85-4C03-A888-60D0DB6705C4 - 61ad30cae3ba6bd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4EC5053-E7F0-42F8-A51E-3172E808BF97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cruise/DatabaseManager/DatabaseManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "saveCruiseModel(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4EC5053-E7F0-42F8-A51E-3172E808BF97 - 61ad30cae3ba6aab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "2612">
+               </Location>
+               <Location
+                  uuid = "F4EC5053-E7F0-42F8-A51E-3172E808BF97 - 61ad30cae3ba6aab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cruise.DatabaseManager.saveCruiseModel(cruise.CruiseModel) -&gt; ()"
+                  moduleName = "cruise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohammedmansour/Desktop/Cruise/cruise/cruise/DatabaseManager/DatabaseManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "2810">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
